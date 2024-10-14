@@ -1,16 +1,13 @@
-# re_exam
+<h1>Book Tracker App 📚</h1>
+A Flutter application to keep track of books you've read, want to read, and are currently reading. The app integrates SQL for local storage and Firebase for cloud data synchronization, ensuring seamless cross-device access.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>Features</h1>
+📌 Track Book Status: Add books with details like title, author, and current status (read, reading, want to read).
+🔄 Sync with Firebase: Sync data across devices with Firebase.
+📂 Local SQL Storage: Offline data access and storage using SQL.
+🎨 User-friendly UI: Clean and intuitive interface for managing your book list.
+🗂️ Search & Filter: Easily search for books by title or filter by status.
+Tech Stack
+Flutter: The app is built using the Flutter framework for cross-platform compatibility.
+Firebase: Cloud synchronization for user data.
+SQL: Local database management for offline access.
