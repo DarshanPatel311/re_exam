@@ -11,3 +11,7 @@ Tech Stack
 Flutter: The app is built using the Flutter framework for cross-platform compatibility.
 Firebase: Cloud synchronization for user data.
 SQL: Local database management for offline access.
+
+
+https://github.com/user-attachments/assets/24fa7525-0444-4f24-ac31-596db2d539cf
+
