@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "390523830138",
+    "project_id": "re-exam-eae37",
+    "storage_bucket": "re-exam-eae37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390523830138:android:43bbfbd8854fa8ba5020c3",
+        "android_client_info": {
+          "package_name": "com.example.exam_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABCt2pcTYRkJj4ISApmm9K7PRgM1DYIVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390523830138:android:f0c02b5334bb35df5020c3",
+        "android_client_info": {
+          "package_name": "com.example.re_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABCt2pcTYRkJj4ISApmm9K7PRgM1DYIVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
